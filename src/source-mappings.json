@@ -140,7 +140,7 @@
         },
         {
             "name": "runtime",
-            "defaultRemote": "https://github.com/dotnet/runtime"
+            "defaultRemote": "https://github.com/Xinlong-Wu/runtime"
         },
         {
             "name": "scenario-tests",
